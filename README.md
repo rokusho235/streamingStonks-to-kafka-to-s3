@@ -1,4 +1,4 @@
-# BreadcrumbsstreamingStonks-to-kafka-to-s3
+# streamingStonksData-to-kafka-to-s3
 
 Live Stock Ticker Simulation = Historical Data + Python > Apache Kafka on EC2 > AWS S3
 
